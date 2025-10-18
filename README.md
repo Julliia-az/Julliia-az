@@ -4,7 +4,7 @@
 
 🌱 Atualmente estou aprendendo C#, JavaScript, Git, Python, lógica de programação e desenvolvimento de sistemas.
 
-💞️ Procuro colaborar em projetos de tecnologia e design que possam contribuir para a inclusão e acessibilidade, como meu projeto atual da academia adaptada, AdaptFit.
+💞️ Procuro colaborar em projetos de tecnologia e design que possam contribuir para a inclusão e acessibilidade.
 
 📫 Como me encontrar: juliagabriellyazevedo46@gmail.com
 
