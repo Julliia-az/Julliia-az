@@ -1,13 +1,13 @@
 👋 Olá, eu sou @Julliia-az.
 
-👀 Estou interessada em desenvolvimento web, design e criação de projetos que façam a diferença.
+👀 Estou interessada em desenvolvimento web, UI/UX, Cyber Security e IA
 
-🌱 Atualmente estou aprendendo C#, JavaScript, Git, Python, lógica de programação e desenvolvimento de sistemas.
+🌱 Atualmente estou aprendendo lógica de programação, Cyber Security e IA.
 
-💞️ Procuro colaborar em projetos de tecnologia e design que possam contribuir para a inclusão e acessibilidade.
+💞️ Procuro colaborar em projetos que façam a diferença.
 
 📫 Como me encontrar: juliagabriellyazevedo46@gmail.com
 
 😄 Pronomes: ela/dela.
 
-⚡ Curiosidade: Amo ler, assistir filmes, maratonar séries, cozinhar e explorar ideias criativas. Sou apaixonada pela chuva e pela natureza!!
+⚡ Curiosidade: Amo ler, assistir filmes, maratonar séries, tomar café e desenvolver ideias criativas.
