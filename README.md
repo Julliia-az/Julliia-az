@@ -1,13 +1,10 @@
-👋 Olá, eu sou @Julliia-az.
+## Olá! Eu sou a Julia Azevedo
 
-👀 Estou interessada em desenvolvimento web, UI/UX, Cyber Security e IA
+- 🔭 Hoje trabalho com Desenvolvimento Web
+- 🌱 Estudando Cibersegurança
 
-🌱 Atualmente estou aprendendo lógica de programação, Cyber Security e IA.
-
-💞️ Procuro colaborar em projetos que façam a diferença.
-
-📫 Como me encontrar: juliagabriellyazevedo46@gmail.com
-
-😄 Pronomes: ela/dela.
-
-⚡ Curiosidade: Amo ler, assistir filmes, maratonar séries, tomar café e desenvolver ideias criativas.
+<div>
+    <a href="https://beacons.ai/Julliia-az">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julliia-az&layout=compact&theme=dracula">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julliia-az&show_icons=true&theme=dracula&rank_icon=github&include_all_commits">
+</div>
