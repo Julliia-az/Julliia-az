@@ -28,3 +28,5 @@
     <a href="mailto:juliagabriellyazevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/julliia_az/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/Julliia-az/Julliia-az/blob/output/github-contribution-grid-snake.svg)
