@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Desenvolvimento Web
 - 🌱 Estudando Cibersegurança
 
-<div display: inline-block><br>
+<!-- <div display: inline-block><br>
     <img aling="center" alt="Ju-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img aling="center" alt="Ju-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img aling="center" alt="Ju-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -14,7 +14,7 @@
     <img aling="center" alt="Ju-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img aling="center" alt="Ju-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img aling="center" alt="Ju-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-</div>
+</div> -->
 
 ##
 
