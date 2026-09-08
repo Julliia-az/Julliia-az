@@ -1,20 +1,22 @@
-## Oiee! Eu sou a Julia Azevedo
+## Oiee! Eu sou a Julia!
 
-- 🔭 Hoje trabalho com Desenvolvimento Web
-- 🌱 Estudando Cibersegurança
+I’m a Software Developer with a background in web development, currently diving deeper into AI and Machine Learning.
 
-<!-- <div display: inline-block><br>
-    <img aling="center" alt="Ju-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img aling="center" alt="Ju-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+I’ve worked with JavaScript, React, Next.js, APIs, and n8n, building web applications, integrations, and automation workflows.
+
+Right now, I’m learning Python and exploring AI agents, intelligent automation, and AI-powered applications through hands-on projects.
+
+My goal is to grow into AI Engineering and build useful, scalable solutions where software, automation, and AI come together.
+
+
+
+<div display: inline-block><br>
     <img aling="center" alt="Ju-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img aling="center" alt="Ju-json" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
     <img aling="center" alt="Ju-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img aling="center" alt="Ju-c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img aling="center" alt="Ju-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img aling="center" alt="Ju-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img aling="center" alt="Ju-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img aling="center" alt="Ju-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-</div> -->
+</div>
 
 ##
 
