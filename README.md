@@ -1,4 +1,4 @@
-## Oiee! Eu sou a Julia!
+## Hii! I'm Julia!!
 
 I’m a Software Developer with a background in web development, currently diving deeper into AI and Machine Learning.
 
@@ -31,3 +31,5 @@ My goal is to grow into AI Engineering and build useful, scalable solutions wher
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julliia-az/Julliia-az/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julliia-az/Julliia-az/output/github-contribution-grid-snake.svg">
 </picture>
+
+Thanks for visiting my GitHub!!
